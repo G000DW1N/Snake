@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 print("Helloworld2");
 print("Helloworld2");
+=======
+>>>>>>> ea3725f... 1
 print("Helloworld2");
