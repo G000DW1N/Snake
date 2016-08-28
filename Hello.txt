@@ -1,4 +1,0 @@
-print("Helo world");
-print("Helo world");
-print("Helo everybody");
-print("are you see me?");
