@@ -1,6 +1,0 @@
-D:\STUDY\GitLessons\Git1\VSHelloWorld\HelloSharp\HelloSharp\bin\Debug\HelloSharp.exe.config
-D:\STUDY\GitLessons\Git1\VSHelloWorld\HelloSharp\HelloSharp\bin\Debug\HelloSharp.exe
-D:\STUDY\GitLessons\Git1\VSHelloWorld\HelloSharp\HelloSharp\bin\Debug\HelloSharp.pdb
-D:\STUDY\GitLessons\Git1\VSHelloWorld\HelloSharp\HelloSharp\obj\Debug\HelloSharp.exe
-D:\STUDY\GitLessons\Git1\VSHelloWorld\HelloSharp\HelloSharp\obj\Debug\HelloSharp.pdb
-D:\STUDY\GitLessons\Git1\VSHelloWorld\HelloSharp\HelloSharp\obj\Debug\HelloSharp.csprojResolveAssemblyReference.cache
